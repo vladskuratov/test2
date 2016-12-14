@@ -10,6 +10,6 @@ namespace Test
     {
         int s;
         int d;
-        int e;
+        int e; 
     }
 }
