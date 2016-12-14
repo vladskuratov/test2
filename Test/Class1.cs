@@ -13,6 +13,6 @@ namespace Test
         int e;
 
 
-        int vlad;
+        int vladve;
     }
 }
