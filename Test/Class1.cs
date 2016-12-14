@@ -14,6 +14,6 @@ namespace Test
 
 
         int vladve;
-        int elinasss;
+        int elinasssddd;
     }
 }
