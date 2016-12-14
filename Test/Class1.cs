@@ -8,5 +8,6 @@ namespace Test
 {
     class Class1
     {
+        int s;
     }
 }
